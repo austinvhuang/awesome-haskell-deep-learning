@@ -31,6 +31,12 @@ code for doing deep learning in Haskell.
 - [dnngraph](https://github.com/ajtulloch/dnngraph)
 - [lambdanet](https://hackage.haskell.org/package/LambdaNet)
 
+## Related Topics & Links
+
+- [colah's blog](http://colah.github.io/archive.html)
+- [dataHaskell](http://www.datahaskell.org/)
+- [dataHaskell gitter](https://gitter.im/dataHaskell/Lobby)
+
 ## Contribution
 
 Feel free to send a pull request.
