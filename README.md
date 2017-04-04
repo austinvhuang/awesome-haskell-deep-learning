@@ -9,6 +9,8 @@ code for doing deep learning in Haskell.
 
 - 2016 | [Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html) | Justin Le
 
+- 2016 | [Reverse-Mode Automatic Differentiation in Haskell Using the Accelerate Library (CS240h project)] | James Bradbury, Farhan Kathawala
+
 - 2015 | [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) | Christopher Olah
 
 - 2013 | [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/) | Dominic Steinitz
