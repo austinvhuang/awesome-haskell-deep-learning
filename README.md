@@ -13,9 +13,9 @@ code for doing deep learning in Haskell.
 
 - 2015 | [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) | Christopher Olah
 
-- 2013 | [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/) | Dominic Steinitz
+- 2014 | [Get a Brain](https://crypto.stanford.edu/~blynn/haskell/brain.html) | Ben Lynn
 
-- ?? | [Get a Brain](https://crypto.stanford.edu/~blynn/haskell/brain.html) | ??
+- 2013 | [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/) | Dominic Steinitz
 
 ## Haskell Packages
 
