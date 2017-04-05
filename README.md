@@ -3,6 +3,10 @@
 In the tradition of "awesome" (curated) lists, this is a list of references and
 code for doing deep learning in Haskell.
 
+- 2017 | [DeepDarkFantasy: A Programming Language for Deep Learning](https://github.com/ThoughtWorksInc/DeepDarkFantasy) | Marisa Kirisame
+
+- 2017 [Deep Learning, from a Programming Language Perspective](https://marisa.moe/2017/DLPL/) | Marisa Kirisame
+
 - 2016 | [Computing symbolic gradient vectors with plain Haskell](http://blog.aloni.org/posts/symbolic-gradients-with-plain-haskell/) | Dan Aloni
 
 - 2016 | [Practical Dependent Types in Haskell 2: Existential Neural Networks and Types at Runtime](https://blog.jle.im/) | Justin Le
