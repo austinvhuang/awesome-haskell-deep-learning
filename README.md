@@ -26,6 +26,7 @@ code for doing deep learning in Haskell.
 ### Packages Under Active Development
 
 - [backprop](http://hackage.haskell.org/package/backprop)
+- [convoluted](https://github.com/jonascarpay/convoluted)
 - [grenade](https://github.com/HuwCampbell/grenade)
 - [hnn](http://hackage.haskell.org/package/hnn)
 - [neural](http://hackage.haskell.org/package/neural)
