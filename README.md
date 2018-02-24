@@ -3,6 +3,8 @@
 In the tradition of "awesome" (curated) lists, this is a list of references and
 code for doing deep learning in Haskell.
 
+- 2018 | [Introducing the backprop library](https://blog.jle.im/entry/introducing-the-backprop-library.html) | Justin Le
+
 - 2017 | [Backprop as Functor: A compositional perspective on supervised
   learning](https://arxiv.org/abs/1711.10455) | Brendan Fong, David I. Spivak,
   Rémy Tuyéras
@@ -36,6 +38,10 @@ code for doing deep learning in Haskell.
 - [backprop](http://hackage.haskell.org/package/backprop) - Automatic
   heterogeneous back-propagation that can be used either implicitly (in the
   style of the ad library) or using explicit graphs built in monadic style.|
+  [Justin Le](https://github.com/mstksg) 
+- [backprop-hmatrix](http://hackage.haskell.org/package/backprop) - Automatic
+  heterogeneous back-propagation that can be used either implicitly (in the
+  style of the ad library) or using explicit graphs built in monadic style. |
   [Justin Le](https://github.com/mstksg)
 - [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed
   convolutional neural networks in pure Haskell. Uses the repa library for
@@ -54,6 +60,8 @@ code for doing deep learning in Haskell.
 - [hnn](http://hackage.haskell.org/package/hnn) - A neural network library
   implemented purely in Haskell, relying on the hmatrix library. | [Alp
   Mestan](https://github.com/alpmestan)
+- [rc](http://hackage.haskell.org/package/rc) - Reservoir computing library. 
+  | [Bogdan Penkovsky](https://github.com/masterdezign)
 - [neural](http://hackage.haskell.org/package/neural) - The goal of neural is to
   provide a modular and flexible neural network library written in native
   Haskell. | [Lars Brünjes](https://github.com/brunjlar)
