@@ -82,9 +82,11 @@ code for doing deep learning in Haskell.
 
 ## Related Topics & Links
 
-- [colah's blog](http://colah.github.io/archive.html)
-- [dataHaskell](http://www.datahaskell.org/)
-- [dataHaskell gitter](https://gitter.im/dataHaskell/Lobby)
+- [Chris Olah's blog](http://colah.github.io/archive.html)
+- [dataHaskell site](http://www.datahaskell.org/) and [gitter chat](https://gitter.im/dataHaskell/Lobby)
+- [idontgetoutmuch blog](https://idontgetoutmuch.wordpress.com/)
+- [Justin Le's blog](https://blog.jle.im/)
+- [Monday Morning Haskell](https://mmhaskell.com/)
 
 ## Contribution
 
