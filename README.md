@@ -47,6 +47,10 @@ code for doing deep learning in Haskell.
   convolutional neural networks in pure Haskell. Uses the repa library for
   high-performance arrays, with a static wrapper that ensures networks are valid
   at compile-time. | [Jonas Carpay](https://github.com/jonascarpay)
+- [diffhask](https://github.com/o1lo01ol1o/diffhask) -
+  DSL for forward and reverse mode automatic differentiation via a version of 
+  operator overloading. Port of DiffSharp to Haskell; currently a work in 
+  progress. | [Tim Pierson](https://github.com/o1lo01ol1o)
 - [funn](https://github.com/nshepperd/funn) - This is an experimental library
   exploring a combinator approach for building and training neural networks in
   haskell. | [Neil Shepperd](https://github.com/nshepperd)
