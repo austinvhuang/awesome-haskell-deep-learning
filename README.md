@@ -61,7 +61,9 @@ code for doing deep learning in Haskell.
   in Haskell, leverages the C backend libraries shared by Torch and PyTorch.
   Also uses [backpack](https://ghc.haskell.org/trac/ghc/wiki/Backpack) and
   [backprop](https://blog.jle.im/entry/introducing-the-backprop-library.html) 
-  to define a high level differentiable programming API.
+  to define a high level differentiable programming API. |
+  [Sam Stites](https://github.com/stites) and 
+  [Austin Huang](https://github.com/austinvhuang)
 - [hnn](http://hackage.haskell.org/package/hnn) - A neural network library
   implemented purely in Haskell, relying on the hmatrix library. | [Alp
   Mestan](https://github.com/alpmestan)
