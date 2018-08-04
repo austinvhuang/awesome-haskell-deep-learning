@@ -57,6 +57,11 @@ code for doing deep learning in Haskell.
 - [gym-http-api](https://github.com/openai/gym-http-api) This project provides a
   local REST API to the gym open-source library, includes a Haskell client by
   [Sam Stites](https://github.com/stites)
+- [hasktorch](https://github.com/hasktorch/hasktorch) Tensors and neural networks
+  in Haskell, leverages the C backend libraries shared by Torch and PyTorch.
+  Also uses [backpack](https://ghc.haskell.org/trac/ghc/wiki/Backpack) and
+  [backprop](https://blog.jle.im/entry/introducing-the-backprop-library.html) 
+  to define a high level differentiable programming API.
 - [hnn](http://hackage.haskell.org/package/hnn) - A neural network library
   implemented purely in Haskell, relying on the hmatrix library. | [Alp
   Mestan](https://github.com/alpmestan)
