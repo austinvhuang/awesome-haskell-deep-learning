@@ -3,6 +3,8 @@
 In the tradition of "awesome" (curated) lists, this is a list of references and
 code for doing deep learning in Haskell.
 
+- 2018 | [The Simple Essence of Automatic Differentiation](http://conal.net/papers/essence-of-ad/essence-of-ad-icfp.pdf) | Conal Elliott
+
 - 2018 | [Introducing the backprop library](https://blog.jle.im/entry/introducing-the-backprop-library.html) | Justin Le
 
 - 2017 | [Backprop as Functor: A compositional perspective on supervised
