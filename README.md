@@ -13,7 +13,7 @@ code for doing deep learning in Haskell.
   learning](https://arxiv.org/abs/1711.10455) | Brendan Fong, David I. Spivak,
   Rémy Tuyéras
 
-- 2017 | [Monday Morning Haskell (ongoing series on Tensorflow)](https://mmhaskell.com/) | James Bowen
+- 2017 | [Haskell and AI (multi-part series covering Tensorflow)](https://mmhaskell.com/haskell-ai/) | James Bowen
 
 - 2017 | [Backpack for deep learning](http://blog.ezyang.com/2017/08/backpack-for-deep-learning/) | Kaixi Ruan
 
