@@ -7,6 +7,8 @@ code for doing deep learning in Haskell.
 
 - 2018 | [The Simple Essence of Automatic Differentiation](http://conal.net/papers/essence-of-ad/essence-of-ad-icfp.pdf) | Conal Elliott
 
+- 2018 | [A Purely Functional Typed Approach to Trainable Models ](https://blog.jle.im/entry/purely-functional-typed-models-1.html) | Justin Le
+
 - 2018 | [Introducing the backprop library](https://blog.jle.im/entry/introducing-the-backprop-library.html) | Justin Le
 
 - 2017 | [Backprop as Functor: A compositional perspective on supervised
