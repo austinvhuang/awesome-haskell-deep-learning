@@ -1,9 +1,14 @@
 # Awesome Haskell Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/avctrh/awesome-haskell-deep-learning)
 
-In the tradition of "awesome" (curated) lists, this is a list of references and
-code for doing deep learning in Haskell.
+In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning (and adjacent/related topics) in Haskell.
+
+- 2019 | [Keynote: Automatic Diferentiation for Dummies (talk)](https://www.youtube.com/watch?v=FtnkqIsfNQc) | Simon Peyton Jones
+
+- 2018 | [NPFL Numerical Programming in Functional Languages (ICFP Session) 2018 Playlist](https://www.youtube.com/watch?v=0SUvyhbFjeg&list=PLnqUlCo055hWb33k7lJ16TZpG6ZYTOmWj) | Multiple Presenters
 
 - 2018 | [Hasktorch v0.0.1](https://medium.com/@stites/hasktorch-v0-0-1-28d9ab270f3f) | Sam Stites
+
+- 2018 | [The Simple Essence of Automatic Differentiation (talk)](https://www.youtube.com/watch?v=ne99laPUxN4) | Conal Elliott
 
 - 2018 | [The Simple Essence of Automatic Differentiation](http://conal.net/papers/essence-of-ad/essence-of-ad-icfp.pdf) | Conal Elliott
 
@@ -49,10 +54,6 @@ code for doing deep learning in Haskell.
   heterogeneous back-propagation that can be used either implicitly (in the
   style of the ad library) or using explicit graphs built in monadic style. |
   [Justin Le](https://github.com/mstksg)
-- [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed
-  convolutional neural networks in pure Haskell. Uses the repa library for
-  high-performance arrays, with a static wrapper that ensures networks are valid
-  at compile-time. | [Jonas Carpay](https://github.com/jonascarpay)
 - [diffhask](https://github.com/o1lo01ol1o/diffhask) -
   DSL for forward and reverse mode automatic differentiation via a version of 
   operator overloading. Port of DiffSharp to Haskell; currently a work in 
@@ -79,9 +80,6 @@ code for doing deep learning in Haskell.
   Mestan](https://github.com/alpmestan)
 - [rc](http://hackage.haskell.org/package/rc) - Reservoir computing library. 
   | [Bogdan Penkovsky](https://github.com/masterdezign)
-- [neural](http://hackage.haskell.org/package/neural) - The goal of neural is to
-  provide a modular and flexible neural network library written in native
-  Haskell. | [Lars Brünjes](https://github.com/brunjlar)
 - [tensorflow](https://github.com/tensorflow/haskell) - The tensorflow-haskell
   package provides Haskell bindings to TensorFlow. | [Judah
   Jacobson](https://github.com/judah) and [Greg
@@ -93,9 +91,16 @@ code for doing deep learning in Haskell.
 
 ### Legacy Packages
 
+- [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed
+  convolutional neural networks in pure Haskell. Uses the repa library for
+  high-performance arrays, with a static wrapper that ensures networks are valid
+  at compile-time. | [Jonas Carpay](https://github.com/jonascarpay)
 - [deeplearning-hs](https://hackage.haskell.org/package/deeplearning-hs)
 - [dnngraph](https://github.com/ajtulloch/dnngraph)
 - [lambdanet](https://hackage.haskell.org/package/LambdaNet)
+- [neural](http://hackage.haskell.org/package/neural) - The goal of neural is to
+  provide a modular and flexible neural network library written in native
+  Haskell. | [Lars Brünjes](https://github.com/brunjlar)
 
 ## Related Topics & Links
 
