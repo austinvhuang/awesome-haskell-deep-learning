@@ -2,6 +2,8 @@
 
 In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning (and adjacent/related topics) in Haskell.
 
+- 2019 | [A Functional Reboot for Deep Learning (BOB 2019 Talk)](https://github.com/conal/talk-2018-deep-learning-rebooted) | Conal Elliott
+
 - 2019 | [Keynote: Automatic Diferentiation for Dummies (talk)](https://www.youtube.com/watch?v=FtnkqIsfNQc) | Simon Peyton Jones
 
 - 2018 | [NPFL Numerical Programming in Functional Languages (ICFP Session) 2018 Playlist](https://www.youtube.com/watch?v=0SUvyhbFjeg&list=PLnqUlCo055hWb33k7lJ16TZpG6ZYTOmWj) | Multiple Presenters
