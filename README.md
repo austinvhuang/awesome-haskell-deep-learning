@@ -8,6 +8,8 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
 
 - 2018 | [NPFL Numerical Programming in Functional Languages (ICFP Session) 2018 Playlist](https://www.youtube.com/watch?v=0SUvyhbFjeg&list=PLnqUlCo055hWb33k7lJ16TZpG6ZYTOmWj) | Multiple Presenters
 
+- 2018 | [Not-o-matic Differentiation](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html) | Andrew Knapp
+
 - 2018 | [Hasktorch v0.0.1](https://medium.com/@stites/hasktorch-v0-0-1-28d9ab270f3f) | Sam Stites
 
 - 2018 | [The Simple Essence of Automatic Differentiation (talk)](https://www.youtube.com/watch?v=ne99laPUxN4) | Conal Elliott
