@@ -73,17 +73,16 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
   local REST API to the gym open-source library, includes a Haskell client by
   [Sam Stites](https://github.com/stites)
 - [hasktorch](https://github.com/hasktorch/hasktorch) Tensors and neural networks
-  in Haskell, leverages the C backend libraries shared by Torch and PyTorch.
-  Also uses [backpack](https://ghc.haskell.org/trac/ghc/wiki/Backpack) and
-  [backprop](https://blog.jle.im/entry/introducing-the-backprop-library.html) 
-  to define a high level differentiable programming API. |
-  [Sam Stites](https://github.com/stites) and 
-  [Austin Huang](https://github.com/austinvhuang)
+  in Haskell, leverages the libtorch backend. |
+  [Hasktorch Contributor Team](https://github.com/hasktorch/hasktorch/graphs/contributors)
 - [hnn](http://hackage.haskell.org/package/hnn) - A neural network library
   implemented purely in Haskell, relying on the hmatrix library. | [Alp
   Mestan](https://github.com/alpmestan)
 - [rc](http://hackage.haskell.org/package/rc) - Reservoir computing library. 
   | [Bogdan Penkovsky](https://github.com/masterdezign)
+- [tensor-safe](https://github.com/leopiney/tensor-safe) - A framework to define
+  valid deep neural network models and export them to specific languages
+  | [Leonardo Pineyro](https://github.com/leopiney)
 - [tensorflow](https://github.com/tensorflow/haskell) - The tensorflow-haskell
   package provides Haskell bindings to TensorFlow. | [Judah
   Jacobson](https://github.com/judah) and [Greg
