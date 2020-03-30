@@ -54,6 +54,7 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
   heterogeneous back-propagation that can be used either implicitly (in the
   style of the ad library) or using explicit graphs built in monadic style.|
   [Justin Le](https://github.com/mstksg) 
+- [arrayfire-haskell](http://hackage.haskell.org/package/arrayfire) - High-level Haskell bindings to the [ArrayFire](https://github.com/arrayfire/arrayfire) General-purpose GPU library. | [David Johnson](https://github.com/dmjio) 
 - [backprop-hmatrix](http://hackage.haskell.org/package/backprop) - Automatic
   heterogeneous back-propagation that can be used either implicitly (in the
   style of the ad library) or using explicit graphs built in monadic style. |
