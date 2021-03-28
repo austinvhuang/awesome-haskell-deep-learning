@@ -2,6 +2,16 @@
 
 In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning (and adjacent/related topics) in Haskell.
 
+- 2020 | [Type-driven Neural Programming by Example](https://arxiv.org/abs/2008.12613) | Kiara Grouwstra
+
+- 2020 | [PyTorch Developer Day 2020: Torch for R & Hasktorch: Bringing Torch to New Programming Languages (talk)](https://www.youtube.com/watch?v=ZnYa99QoznE) | Austin Huang and Daniel Falbel
+
+- 2020 | [Berlin Functional Programming Group: Hasktorch (talk)](https://www.youtube.com/watch?v=ZnYa99QoznE) | Torsten Scholak
+
+- 2020 | [MuniHac 2020: Austin Huang - Hasktorch: Differentiable Functional Programming in Haskell (talk)](https://www.youtube.com/watch?v=Qu6RIO02m1U) | Austin Huang
+
+- 2019 | [Dex: array programming with typed indices](https://openreview.net/pdf?id=rJxd7vsWPS) | Dougal Maclaurin, Alexey Radul, Matthew J. Johnson, and Dimitrios Vytiniotis
+
 - 2019 | [A Functional Reboot for Deep Learning (BOB 2019 Talk)](https://github.com/conal/talk-2018-deep-learning-rebooted) | Conal Elliott
 
 - 2019 | [Keynote: Automatic Diferentiation for Dummies (talk)](https://www.youtube.com/watch?v=FtnkqIsfNQc) | Simon Peyton Jones
@@ -59,6 +69,7 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
   heterogeneous back-propagation that can be used either implicitly (in the
   style of the ad library) or using explicit graphs built in monadic style. |
   [Justin Le](https://github.com/mstksg)
+- [dex](https://github.com/google-research/dex-lang) - a research language for typed, functional array processing.
 - [diffhask](https://github.com/o1lo01ol1o/diffhask) -
   DSL for forward and reverse mode automatic differentiation via a version of 
   operator overloading. Port of DiffSharp to Haskell; currently a work in 
@@ -76,11 +87,13 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
 - [hasktorch](https://github.com/hasktorch/hasktorch) Tensors and neural networks
   in Haskell, leverages the libtorch backend. |
   [Hasktorch Contributor Team](https://github.com/hasktorch/hasktorch/graphs/contributors)
+- [hasktorch-yolo](https://github.com/junjihashimoto/hasktorch-yolo) yolov3 implementaiton in hasktorch | [Junji Hashimoto](https://github.com/junjihashimoto)
 - [hnn](http://hackage.haskell.org/package/hnn) - A neural network library
   implemented purely in Haskell, relying on the hmatrix library. | [Alp
   Mestan](https://github.com/alpmestan)
 - [rc](http://hackage.haskell.org/package/rc) - Reservoir computing library. 
   | [Bogdan Penkovsky](https://github.com/masterdezign)
+- [synthesis](https://gitlab.com/tycho01/hasktorch/tree/synthesis/synthesis/) - Implementation for [Typed Neuro-Symbolic Program Synthesis for the Typed Lambda Calculus](https://arxiv.org/abs/2008.12613)
 - [tensor-safe](https://github.com/leopiney/tensor-safe) - A framework to define
   valid deep neural network models and export them to specific languages
   | [Leonardo Pineyro](https://github.com/leopiney)
