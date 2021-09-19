@@ -2,19 +2,14 @@
 
 In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning (and adjacent/related topics) in Haskell.
 
+## Articles
+
 - 2020 | [Type-driven Neural Programming by Example](https://arxiv.org/abs/2008.12613) | Kiara Grouwstra
-- 2020 | [PyTorch Developer Day 2020: Torch for R & Hasktorch: Bringing Torch to New Programming Languages (talk)](https://www.youtube.com/watch?v=ZnYa99QoznE) | Austin Huang and Daniel Falbel
-- 2020 | [Berlin Functional Programming Group: Hasktorch (talk)](https://www.youtube.com/watch?v=ZnYa99QoznE) | Torsten Scholak
-- 2020 | [MuniHac 2020: Austin Huang - Hasktorch: Differentiable Functional Programming in Haskell (talk)](https://www.youtube.com/watch?v=Qu6RIO02m1U) | Austin Huang
 - 2019 | [Dex: array programming with typed indices](https://openreview.net/pdf?id=rJxd7vsWPS) | Dougal Maclaurin, Alexey Radul, Matthew J. Johnson, and Dimitrios Vytiniotis
-- 2019 | [A Functional Reboot for Deep Learning (BOB 2019 Talk)](https://github.com/conal/talk-2018-deep-learning-rebooted) | Conal Elliott
-- 2019 | [Keynote: Automatic Diferentiation for Dummies (talk)](https://www.youtube.com/watch?v=FtnkqIsfNQc) | Simon Peyton Jones
-- 2018 | [NPFL Numerical Programming in Functional Languages (ICFP Session) 2018 Playlist](https://www.youtube.com/watch?v=0SUvyhbFjeg&list=PLnqUlCo055hWb33k7lJ16TZpG6ZYTOmWj) | Multiple Presenters
 - 2018 | [Not-o-matic Differentiation](https://ajknapp.github.io/2018/08/14/notomatic-differentiation.html) | Andrew Knapp
 - 2018 | [Hasktorch v0.0.1](https://medium.com/@stites/hasktorch-v0-0-1-28d9ab270f3f) | Sam Stites
-- 2018 | [The Simple Essence of Automatic Differentiation (talk)](https://www.youtube.com/watch?v=ne99laPUxN4) | Conal Elliott
 - 2018 | [The Simple Essence of Automatic Differentiation](http://conal.net/papers/essence-of-ad/essence-of-ad-icfp.pdf) | Conal Elliott
-- 2018 | [A Purely Functional Typed Approach to Trainable Models ](https://blog.jle.im/entry/purely-functional-typed-models-1.html) | Justin Le
+- 2018 | [A Purely Functional Typed Approach to Trainable Models](https://blog.jle.im/entry/purely-functional-typed-models-1.html) | Justin Le
 - 2018 | [Introducing the backprop library](https://blog.jle.im/entry/introducing-the-backprop-library.html) | Justin Le
 - 2017 | [Backprop as Functor: A compositional perspective on supervised learning](https://arxiv.org/abs/1711.10455) | Brendan Fong, David I. Spivak, Rémy Tuyéras
 - 2017 | [Haskell and AI (multi-part series covering Tensorflow)](https://mmhaskell.com/haskell-ai/) | James Bowen
@@ -28,6 +23,16 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
 - 2015 | [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) | Christopher Olah
 - 2014 | [Get a Brain](https://crypto.stanford.edu/~blynn/haskell/brain.html) | Ben Lynn
 - 2013 | [Backpropogation is Just Steepest Descent with Automatic Differentiation](https://idontgetoutmuch.wordpress.com/2013/10/13/backpropogation-is-just-steepest-descent-with-automatic-differentiation-2/) | Dominic Steinitz
+
+## Talks
+
+- 2020 | [PyTorch Developer Day 2020: Torch for R & Hasktorch: Bringing Torch to New Programming Languages](https://www.youtube.com/watch?v=ZnYa99QoznE) | Austin Huang and Daniel Falbel
+- 2020 | [Berlin Functional Programming Group: Hasktorch](https://www.youtube.com/watch?v=ZnYa99QoznE) | Torsten Scholak
+- 2020 | [MuniHac 2020: Austin Huang - Hasktorch: Differentiable Functional Programming in Haskell](https://www.youtube.com/watch?v=Qu6RIO02m1U) | Austin Huang
+- 2019 | [A Functional Reboot for Deep Learning (BOB 2019 Talk)](https://github.com/conal/talk-2018-deep-learning-rebooted) | Conal Elliott
+- 2019 | [Keynote: Automatic Diferentiation for Dummies](https://www.youtube.com/watch?v=FtnkqIsfNQc) | Simon Peyton Jones
+- 2018 | [NPFL Numerical Programming in Functional Languages (ICFP Session) 2018 Playlist](https://www.youtube.com/watch?v=0SUvyhbFjeg&list=PLnqUlCo055hWb33k7lJ16TZpG6ZYTOmWj) | Multiple Presenters
+- 2018 | [The Simple Essence of Automatic Differentiation](https://www.youtube.com/watch?v=ne99laPUxN4) | Conal Elliott
 
 ## Haskell Packages
 
