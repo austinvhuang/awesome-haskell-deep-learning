@@ -38,64 +38,30 @@ In the tradition of "awesome" (curated) lists, this is a list of references and 
 
 ### Packages Under Active Development
 
-- [backprop](http://hackage.haskell.org/package/backprop) - Automatic
-  heterogeneous back-propagation that can be used either implicitly (in the
-  style of the ad library) or using explicit graphs built in monadic style.|
-  [Justin Le](https://github.com/mstksg) 
+- [backprop](http://hackage.haskell.org/package/backprop) - Automatic heterogeneous back-propagation that can be used either implicitly (in the style of the ad library) or using explicit graphs built in monadic style. | [Justin Le](https://github.com/mstksg) 
 - [arrayfire-haskell](http://hackage.haskell.org/package/arrayfire) - High-level Haskell bindings to the [ArrayFire](https://github.com/arrayfire/arrayfire) General-purpose GPU library. | [David Johnson](https://github.com/dmjio) 
-- [backprop-hmatrix](http://hackage.haskell.org/package/backprop) - Automatic
-  heterogeneous back-propagation that can be used either implicitly (in the
-  style of the ad library) or using explicit graphs built in monadic style. |
-  [Justin Le](https://github.com/mstksg)
+- [backprop-hmatrix](http://hackage.haskell.org/package/backprop) - Automatic heterogeneous back-propagation that can be used either implicitly (in the style of the ad library) or using explicit graphs built in monadic style. | [Justin Le](https://github.com/mstksg)
 - [dex](https://github.com/google-research/dex-lang) - a research language for typed, functional array processing.
-- [diffhask](https://github.com/o1lo01ol1o/diffhask) -
-  DSL for forward and reverse mode automatic differentiation via a version of 
-  operator overloading. Port of DiffSharp to Haskell; currently a work in 
-  progress. | [Tim Pierson](https://github.com/o1lo01ol1o)
-- [funn](https://github.com/nshepperd/funn) - This is an experimental library
-  exploring a combinator approach for building and training neural networks in
-  haskell. | [Neil Shepperd](https://github.com/nshepperd)
-- [grenade](https://github.com/HuwCampbell/grenade) - Grenade is a composable,
-  dependently typed, practical, and fast recurrent neural network library for
-  concise and precise specifications of complex networks in Haskell. | [Huw
-  Campbell](https://github.com/HuwCampbell)
-- [gym-http-api](https://github.com/openai/gym-http-api) This project provides a
-  local REST API to the gym open-source library, includes a Haskell client by
-  [Sam Stites](https://github.com/stites)
-- [hasktorch](https://github.com/hasktorch/hasktorch) Tensors and neural networks
-  in Haskell, leverages the libtorch backend. |
-  [Hasktorch Contributor Team](https://github.com/hasktorch/hasktorch/graphs/contributors)
+- [diffhask](https://github.com/o1lo01ol1o/diffhask) - DSL for forward and reverse mode automatic differentiation via a version of operator overloading. Port of DiffSharp to Haskell; currently a work in progress. | [Tim Pierson](https://github.com/o1lo01ol1o)
+- [funn](https://github.com/nshepperd/funn) - This is an experimental library exploring a combinator approach for building and training neural networks in haskell. | [Neil Shepperd](https://github.com/nshepperd)
+- [grenade](https://github.com/HuwCampbell/grenade) - Grenade is a composable, dependently typed, practical, and fast recurrent neural network library for concise and precise specifications of complex networks in Haskell. | [Huw Campbell](https://github.com/HuwCampbell)
+- [gym-http-api](https://github.com/openai/gym-http-api) This project provides a local REST API to the gym open-source library, includes a Haskell client by [Sam Stites](https://github.com/stites)
+- [hasktorch](https://github.com/hasktorch/hasktorch) Tensors and neural networks in Haskell, leverages the libtorch backend. | [Hasktorch Contributor Team](https://github.com/hasktorch/hasktorch/graphs/contributors)
 - [hasktorch-yolo](https://github.com/junjihashimoto/hasktorch-yolo) yolov3 implementaiton in hasktorch | [Junji Hashimoto](https://github.com/junjihashimoto)
-- [hnn](http://hackage.haskell.org/package/hnn) - A neural network library
-  implemented purely in Haskell, relying on the hmatrix library. | [Alp
-  Mestan](https://github.com/alpmestan)
-- [rc](http://hackage.haskell.org/package/rc) - Reservoir computing library. 
-  | [Bogdan Penkovsky](https://github.com/masterdezign)
+- [hnn](http://hackage.haskell.org/package/hnn) - A neural network library implemented purely in Haskell, relying on the hmatrix library. | [Alp Mestan](https://github.com/alpmestan)
+- [rc](http://hackage.haskell.org/package/rc) - Reservoir computing library. | [Bogdan Penkovsky](https://github.com/masterdezign)
 - [synthesis](https://gitlab.com/tycho01/hasktorch/tree/synthesis/synthesis/) - Implementation for [Typed Neuro-Symbolic Program Synthesis for the Typed Lambda Calculus](https://arxiv.org/abs/2008.12613)
-- [tensor-safe](https://github.com/leopiney/tensor-safe) - A framework to define
-  valid deep neural network models and export them to specific languages
-  | [Leonardo Pineyro](https://github.com/leopiney)
-- [tensorflow](https://github.com/tensorflow/haskell) - The tensorflow-haskell
-  package provides Haskell bindings to TensorFlow. | [Judah
-  Jacobson](https://github.com/judah) and [Greg
-  Steuk](https://github.com/blackgnezdo)
-- [TypedFlow](https://github.com/GU-CLASP/TypedFlow) - TypedFlow is a typed,
-  higher-order frontend to TensorFlow and a high-level library for
-  deep-learning. Generates python. | [Jean-Philippe
-  Bernardy](https://github.com/jyp)
+- [tensor-safe](https://github.com/leopiney/tensor-safe) - A framework to define valid deep neural network models and export them to specific languages | [Leonardo Pineyro](https://github.com/leopiney)
+- [tensorflow](https://github.com/tensorflow/haskell) - The tensorflow-haskell package provides Haskell bindings to TensorFlow. | [Judah Jacobson](https://github.com/judah) and [Greg Steuk](https://github.com/blackgnezdo)
+- [TypedFlow](https://github.com/GU-CLASP/TypedFlow) - TypedFlow is a typed, higher-order frontend to TensorFlow and a high-level library for deep-learning. Generates python. | [Jean-Philippe Bernardy](https://github.com/jyp)
 
 ### Legacy Packages
 
-- [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed
-  convolutional neural networks in pure Haskell. Uses the repa library for
-  high-performance arrays, with a static wrapper that ensures networks are valid
-  at compile-time. | [Jonas Carpay](https://github.com/jonascarpay)
+- [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks in pure Haskell. Uses the repa library for high-performance arrays, with a static wrapper that ensures networks are valid at compile-time. | [Jonas Carpay](https://github.com/jonascarpay)
 - [deeplearning-hs](https://hackage.haskell.org/package/deeplearning-hs)
 - [dnngraph](https://github.com/ajtulloch/dnngraph)
 - [lambdanet](https://hackage.haskell.org/package/LambdaNet)
-- [neural](http://hackage.haskell.org/package/neural) - The goal of neural is to
-  provide a modular and flexible neural network library written in native
-  Haskell. | [Lars Brünjes](https://github.com/brunjlar)
+- [neural](http://hackage.haskell.org/package/neural) - The goal of neural is to provide a modular and flexible neural network library written in native Haskell. | [Lars Brünjes](https://github.com/brunjlar)
 
 ## Related Topics & Links
 
